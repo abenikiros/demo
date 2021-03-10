@@ -36,7 +36,7 @@ export default class App extends Component{
       <form onSubmit={this.handlesubmit}>
         <input type="email" onChange={e=>this.email=e.target.value}></input>
         <input type="password" onChange={e=>this.password=e.target.value}></input>
-        <button>logout</button>
+        <button> get the fuck logout</button>
       </form>
     )
   }
